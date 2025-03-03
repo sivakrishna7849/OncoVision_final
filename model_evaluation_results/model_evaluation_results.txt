@@ -1,0 +1,131 @@
+===== ENSEMBLE MODEL EVALUATION RESULTS =====
+Total images tested: 116
+Cancer images: 89
+Non-cancer images: 27
+
+Performance Metrics:
+Accuracy: 0.9310
+Precision: 0.7879
+Recall: 0.9630
+F1 Score: 0.8667
+
+Average prediction time per image: 0.4187 seconds
+
+Detailed Results:
+Image Path | True Label | Predicted Label | Confidence
+D:\oral_cancer_detection\testdata\cancer\001.jpeg | Cancer | Cancer | 81.38%
+D:\oral_cancer_detection\testdata\cancer\002.jpg | Cancer | Cancer | 80.15%
+D:\oral_cancer_detection\testdata\cancer\003.jpg | Cancer | Cancer | 66.93%
+D:\oral_cancer_detection\testdata\cancer\004.jpg | Cancer | Cancer | 84.65%
+D:\oral_cancer_detection\testdata\cancer\005.jpg | Cancer | Cancer | 76.13%
+D:\oral_cancer_detection\testdata\cancer\006.jpg | Cancer | Cancer | 82.66%
+D:\oral_cancer_detection\testdata\cancer\007.jpeg | Cancer | Cancer | 82.52%
+D:\oral_cancer_detection\testdata\cancer\008.jpeg | Cancer | Non-Cancer | 68.43%
+D:\oral_cancer_detection\testdata\cancer\009.jpeg | Cancer | Cancer | 80.71%
+D:\oral_cancer_detection\testdata\cancer\010.jpeg | Cancer | Cancer | 81.17%
+D:\oral_cancer_detection\testdata\cancer\011.jpg | Cancer | Cancer | 83.43%
+D:\oral_cancer_detection\testdata\cancer\012.jpeg | Cancer | Cancer | 60.90%
+D:\oral_cancer_detection\testdata\cancer\013.jpeg | Cancer | Cancer | 74.85%
+D:\oral_cancer_detection\testdata\cancer\014.jpeg | Cancer | Cancer | 80.06%
+D:\oral_cancer_detection\testdata\cancer\015.jpeg | Cancer | Cancer | 83.23%
+D:\oral_cancer_detection\testdata\cancer\016.jpeg | Cancer | Cancer | 85.27%
+D:\oral_cancer_detection\testdata\cancer\017.jpeg | Cancer | Cancer | 86.04%
+D:\oral_cancer_detection\testdata\cancer\018.jpeg | Cancer | Non-Cancer | 53.64%
+D:\oral_cancer_detection\testdata\cancer\019.jpeg | Cancer | Non-Cancer | 52.86%
+D:\oral_cancer_detection\testdata\cancer\020.jpeg | Cancer | Cancer | 82.17%
+D:\oral_cancer_detection\testdata\cancer\021.jpeg | Cancer | Cancer | 79.58%
+D:\oral_cancer_detection\testdata\cancer\022.jpeg | Cancer | Cancer | 82.46%
+D:\oral_cancer_detection\testdata\cancer\023.jpeg | Cancer | Cancer | 79.61%
+D:\oral_cancer_detection\testdata\cancer\024.jpeg | Cancer | Cancer | 81.60%
+D:\oral_cancer_detection\testdata\cancer\025.jpeg | Cancer | Non-Cancer | 57.32%
+D:\oral_cancer_detection\testdata\cancer\026.jpeg | Cancer | Cancer | 62.04%
+D:\oral_cancer_detection\testdata\cancer\027.jpeg | Cancer | Cancer | 80.65%
+D:\oral_cancer_detection\testdata\cancer\028.jpeg | Cancer | Cancer | 84.02%
+D:\oral_cancer_detection\testdata\cancer\029.jpeg | Cancer | Cancer | 82.93%
+D:\oral_cancer_detection\testdata\cancer\030.jpeg | Cancer | Cancer | 83.58%
+D:\oral_cancer_detection\testdata\cancer\031.jpeg | Cancer | Cancer | 82.81%
+D:\oral_cancer_detection\testdata\cancer\032.jpeg | Cancer | Cancer | 56.24%
+D:\oral_cancer_detection\testdata\cancer\033.jpeg | Cancer | Cancer | 79.72%
+D:\oral_cancer_detection\testdata\cancer\034.jpeg | Cancer | Cancer | 85.38%
+D:\oral_cancer_detection\testdata\cancer\035.jpeg | Cancer | Cancer | 81.28%
+D:\oral_cancer_detection\testdata\cancer\036.jpeg | Cancer | Cancer | 81.66%
+D:\oral_cancer_detection\testdata\cancer\037.jpeg | Cancer | Cancer | 82.15%
+D:\oral_cancer_detection\testdata\cancer\038.jpg | Cancer | Cancer | 82.26%
+D:\oral_cancer_detection\testdata\cancer\039.jpg | Cancer | Cancer | 80.96%
+D:\oral_cancer_detection\testdata\cancer\040.jpg | Cancer | Cancer | 83.40%
+D:\oral_cancer_detection\testdata\cancer\041.jpg | Cancer | Cancer | 81.50%
+D:\oral_cancer_detection\testdata\cancer\042.jpg | Cancer | Non-Cancer | 57.24%
+D:\oral_cancer_detection\testdata\cancer\043.jpg | Cancer | Cancer | 78.74%
+D:\oral_cancer_detection\testdata\cancer\044.jpeg | Cancer | Cancer | 65.20%
+D:\oral_cancer_detection\testdata\cancer\045.jpeg | Cancer | Cancer | 80.73%
+D:\oral_cancer_detection\testdata\cancer\046.jpeg | Cancer | Cancer | 82.53%
+D:\oral_cancer_detection\testdata\cancer\047.jpeg | Cancer | Cancer | 83.10%
+D:\oral_cancer_detection\testdata\cancer\048.jpeg | Cancer | Cancer | 84.39%
+D:\oral_cancer_detection\testdata\cancer\049.jpeg | Cancer | Cancer | 69.77%
+D:\oral_cancer_detection\testdata\cancer\050.jpeg | Cancer | Cancer | 79.73%
+D:\oral_cancer_detection\testdata\cancer\051.jpeg | Cancer | Cancer | 80.28%
+D:\oral_cancer_detection\testdata\cancer\052.jpeg | Cancer | Cancer | 84.66%
+D:\oral_cancer_detection\testdata\cancer\053.jpeg | Cancer | Cancer | 80.47%
+D:\oral_cancer_detection\testdata\cancer\054.jpeg | Cancer | Cancer | 67.66%
+D:\oral_cancer_detection\testdata\cancer\055.jpeg | Cancer | Cancer | 68.48%
+D:\oral_cancer_detection\testdata\cancer\056.jpeg | Cancer | Cancer | 79.03%
+D:\oral_cancer_detection\testdata\cancer\057.jpeg | Cancer | Cancer | 78.73%
+D:\oral_cancer_detection\testdata\cancer\058.jpg | Cancer | Cancer | 83.74%
+D:\oral_cancer_detection\testdata\cancer\059.jpg | Cancer | Cancer | 79.54%
+D:\oral_cancer_detection\testdata\cancer\060.jpg | Cancer | Cancer | 79.75%
+D:\oral_cancer_detection\testdata\cancer\061.jpg | Cancer | Cancer | 81.48%
+D:\oral_cancer_detection\testdata\cancer\062.jpeg | Cancer | Cancer | 84.45%
+D:\oral_cancer_detection\testdata\cancer\063.jpg | Cancer | Cancer | 78.52%
+D:\oral_cancer_detection\testdata\cancer\064.jpg | Cancer | Cancer | 82.09%
+D:\oral_cancer_detection\testdata\cancer\065.jpg | Cancer | Cancer | 78.99%
+D:\oral_cancer_detection\testdata\cancer\066.jpg | Cancer | Cancer | 80.42%
+D:\oral_cancer_detection\testdata\cancer\067.jpeg | Cancer | Non-Cancer | 52.15%
+D:\oral_cancer_detection\testdata\cancer\068.jpeg | Cancer | Cancer | 85.64%
+D:\oral_cancer_detection\testdata\cancer\069.jpeg | Cancer | Cancer | 84.90%
+D:\oral_cancer_detection\testdata\cancer\070.jpeg | Cancer | Cancer | 84.92%
+D:\oral_cancer_detection\testdata\cancer\071.jpeg | Cancer | Cancer | 68.26%
+D:\oral_cancer_detection\testdata\cancer\072.jpeg | Cancer | Cancer | 80.83%
+D:\oral_cancer_detection\testdata\cancer\073.jpeg | Cancer | Cancer | 82.66%
+D:\oral_cancer_detection\testdata\cancer\074.jpeg | Cancer | Cancer | 79.78%
+D:\oral_cancer_detection\testdata\cancer\075.jpeg | Cancer | Cancer | 69.26%
+D:\oral_cancer_detection\testdata\cancer\076.jpeg | Cancer | Cancer | 81.93%
+D:\oral_cancer_detection\testdata\cancer\077.jpeg | Cancer | Cancer | 82.38%
+D:\oral_cancer_detection\testdata\cancer\078.jpeg | Cancer | Non-Cancer | 55.57%
+D:\oral_cancer_detection\testdata\cancer\079.jpeg | Cancer | Cancer | 80.94%
+D:\oral_cancer_detection\testdata\cancer\080.jpeg | Cancer | Cancer | 81.32%
+D:\oral_cancer_detection\testdata\cancer\081.jpeg | Cancer | Cancer | 57.91%
+D:\oral_cancer_detection\testdata\cancer\082.jpeg | Cancer | Cancer | 80.30%
+D:\oral_cancer_detection\testdata\cancer\083.jpeg | Cancer | Cancer | 77.25%
+D:\oral_cancer_detection\testdata\cancer\084.jpeg | Cancer | Cancer | 73.15%
+D:\oral_cancer_detection\testdata\cancer\085.jpeg | Cancer | Cancer | 85.16%
+D:\oral_cancer_detection\testdata\cancer\086.jpg | Cancer | Cancer | 76.80%
+D:\oral_cancer_detection\testdata\cancer\087.jpg | Cancer | Cancer | 81.27%
+D:\oral_cancer_detection\testdata\cancer\088.jpg | Cancer | Cancer | 75.37%
+D:\oral_cancer_detection\testdata\cancer\089.jpg | Cancer | Cancer | 82.69%
+D:\oral_cancer_detection\testdata\non_cancer\001.jpeg | Non-Cancer | Non-Cancer | 90.81%
+D:\oral_cancer_detection\testdata\non_cancer\002.jpeg | Non-Cancer | Non-Cancer | 89.38%
+D:\oral_cancer_detection\testdata\non_cancer\003.jpeg | Non-Cancer | Non-Cancer | 93.63%
+D:\oral_cancer_detection\testdata\non_cancer\004.jpeg | Non-Cancer | Non-Cancer | 89.76%
+D:\oral_cancer_detection\testdata\non_cancer\005.jpeg | Non-Cancer | Non-Cancer | 88.58%
+D:\oral_cancer_detection\testdata\non_cancer\006.jpeg | Non-Cancer | Non-Cancer | 90.19%
+D:\oral_cancer_detection\testdata\non_cancer\007.jpeg | Non-Cancer | Non-Cancer | 87.75%
+D:\oral_cancer_detection\testdata\non_cancer\008.jpeg | Non-Cancer | Non-Cancer | 70.06%
+D:\oral_cancer_detection\testdata\non_cancer\009.jpeg | Non-Cancer | Non-Cancer | 89.86%
+D:\oral_cancer_detection\testdata\non_cancer\010.jpeg | Non-Cancer | Non-Cancer | 81.52%
+D:\oral_cancer_detection\testdata\non_cancer\011.jpeg | Non-Cancer | Non-Cancer | 89.38%
+D:\oral_cancer_detection\testdata\non_cancer\012.jpeg | Non-Cancer | Non-Cancer | 86.62%
+D:\oral_cancer_detection\testdata\non_cancer\013.jpeg | Non-Cancer | Non-Cancer | 89.75%
+D:\oral_cancer_detection\testdata\non_cancer\014.jpeg | Non-Cancer | Non-Cancer | 88.89%
+D:\oral_cancer_detection\testdata\non_cancer\015.jpeg | Non-Cancer | Non-Cancer | 90.24%
+D:\oral_cancer_detection\testdata\non_cancer\016.jpeg | Non-Cancer | Non-Cancer | 88.16%
+D:\oral_cancer_detection\testdata\non_cancer\017.jpeg | Non-Cancer | Cancer | 53.80%
+D:\oral_cancer_detection\testdata\non_cancer\018.jpeg | Non-Cancer | Non-Cancer | 85.90%
+D:\oral_cancer_detection\testdata\non_cancer\019.jpeg | Non-Cancer | Non-Cancer | 88.98%
+D:\oral_cancer_detection\testdata\non_cancer\020.jpeg | Non-Cancer | Non-Cancer | 89.76%
+D:\oral_cancer_detection\testdata\non_cancer\021.jpeg | Non-Cancer | Non-Cancer | 88.95%
+D:\oral_cancer_detection\testdata\non_cancer\022.jpeg | Non-Cancer | Non-Cancer | 90.11%
+D:\oral_cancer_detection\testdata\non_cancer\023.jpeg | Non-Cancer | Non-Cancer | 90.00%
+D:\oral_cancer_detection\testdata\non_cancer\024.jpeg | Non-Cancer | Non-Cancer | 88.67%
+D:\oral_cancer_detection\testdata\non_cancer\025.jpeg | Non-Cancer | Non-Cancer | 86.12%
+D:\oral_cancer_detection\testdata\non_cancer\026.jpeg | Non-Cancer | Non-Cancer | 79.45%
+D:\oral_cancer_detection\testdata\non_cancer\027.jpg | Non-Cancer | Non-Cancer | 51.46%
